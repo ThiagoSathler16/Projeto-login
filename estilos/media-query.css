@@ -38,6 +38,11 @@
         font-size: 1em;
     }
 
+    footer {
+        background-color: #A6654E;
+    }
+        
+
 }
 
 @media screen and (min-width: 992px) {
@@ -76,6 +81,8 @@
         font-size: 1em;
     }
 
-    
-    
+    footer {
+        background-color: #A6654E;
+    }
+
 }
