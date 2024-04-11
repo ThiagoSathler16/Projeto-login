@@ -144,11 +144,3 @@ form > a.botao:hover {
 form > a.botao > i {
     font-size: 1.3em;
 }
-
-footer {
-    color: white;
-    text-align: center;
-    background-color: #16120F;
-    padding-bottom: 10px;
-    
-}

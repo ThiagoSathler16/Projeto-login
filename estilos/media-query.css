@@ -37,10 +37,6 @@
     form > input[type=submit] {
         font-size: 1em;
     }
-
-    footer {
-        background-color: #A6654E;
-    }
         
 
 }
@@ -79,10 +75,6 @@
 
     form > input[type=submit] {
         font-size: 1em;
-    }
-
-    footer {
-        background-color: #A6654E;
     }
 
 }
